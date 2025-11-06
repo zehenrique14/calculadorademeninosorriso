@@ -1,2 +1,2 @@
 # calculadorademeninosorriso
-calculadora de jose, para um trabalho no intinerario do senai
+calculadora que opera calculos de adição, subtração, multiplicação e divisão
